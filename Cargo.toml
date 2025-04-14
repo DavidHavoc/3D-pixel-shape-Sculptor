@@ -1,0 +1,12 @@
+[package]
+name = "voxel_sculptor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.13"
+bevy_egui = "0.27"
+bevy_panorbit_camera = "0.14" # Use version compatible with Bevy 0.13
+strum = "0.26"
+strum_macros = "0.26"
+hex = "0.4"
