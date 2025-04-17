@@ -1,0 +1,9 @@
+[package]
+name = "voxel-shapes"
+version = "0.2.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.12.1"
+bevy_egui = "0.23.0"
+egui = "0.23.0"
