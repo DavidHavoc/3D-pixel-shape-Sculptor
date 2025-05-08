@@ -53,3 +53,7 @@ This application generates a 3D voxel representation of various geometric shapes
 * **Pan View:** Hold the **Right Mouse Button** and drag.
 * **Zoom View:** Use the **Mouse Scroll Wheel**.
 * **Adjust Dimensions/Shape:** Use the sliders and dropdown menu in the "Sculptor Controls" window. The shape will update automatically.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
